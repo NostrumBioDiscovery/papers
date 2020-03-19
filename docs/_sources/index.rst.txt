@@ -3,8 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to papers's documentation!
-==================================
+Welcome to NostrumBioDiscover's article documentation!
+==========================================================
+
+
+.. figure:: nbd.png
+    :scale: 100%
+    :align: center
+
 
 NostrumBioDiscovery has been running up to three years. Along the journey
 we have been working with all size pharmas and developing our own projects.
