@@ -59,7 +59,7 @@ Adaptive-PELE towards interactive protein-ligand modeling
 
 
 AquaPELE: A Monte Carlo-Based Algorithm to Sample the Effects of buried Water Molecules in Proteins.
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 .. figure:: images/aquapele.png
