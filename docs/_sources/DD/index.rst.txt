@@ -52,3 +52,33 @@ Challenges of docking in large, flexible and promiscuous binding sites
     :align: center
 
 - Paper: https://www.ncbi.nlm.nih.gov/pubmed/27545443
+
+|
+|
+|
+
+
+Monte Carlo simulations using PELE to identify a protein-protein inhibitor binding site and pose
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+.. figure:: images/monte_carlo_dd.png
+    :scale: 100%
+    :align: center
+
+- Paper: http://dx.doi.org/10.1039/D0RA01127D
+|
+|
+|
+
+
+Δ(9)-Tetrahydrocannabinolic acid alleviates collagen-induced arthritis: Role of PPARγ and CB(1) receptors.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+.. figure:: images/collagen_induced_arthritis.png
+    :scale: 100%
+    :align: center
+
+- Paper: https://doi.org/10.1111/bph.15155
+

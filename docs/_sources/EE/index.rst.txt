@@ -2,7 +2,7 @@ Enzyme Engineering Papers
 ===========================
 
 
-Pluryenzymes: Genetically engineered proteins with two active sites for enhanced biocatalysis and synergistic chemo- and biocatalysis
+Plurizymes: Genetically engineered proteins with two active sites for enhanced biocatalysis and synergistic chemo- and biocatalysis
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. figure:: images/pluryenzymes.png
