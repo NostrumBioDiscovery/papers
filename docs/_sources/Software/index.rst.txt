@@ -2,7 +2,7 @@ Software development papers
 ==============================
 
 
-PPI-PELE: Monte Carlo simulations using PELE to identify a protein–protein inhibitor binding site and pose
+PPI-PELE: Monte Carlo simulations using PELE to identify a protein-protein inhibitor binding site and pose
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. figure:: images/global.png
@@ -61,7 +61,6 @@ Adaptive-PELE towards interactive protein-ligand modeling
 AquaPELE: A Monte Carlo-Based Algorithm to Sample the Effects of buried Water Molecules in Proteins.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-
 .. figure:: images/aquapele.png
     :scale: 40%
     :align: center
@@ -102,8 +101,7 @@ Exploring the Conformational Landscape of Bioactive Small Molecules
 
 
 Bioactive Conformational Ensemble Server and Database. A Public Framework to Speed Up In Silico Drug Discovery
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 .. figure:: images/bioactive_server.png
