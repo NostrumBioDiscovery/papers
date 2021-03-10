@@ -72,7 +72,7 @@ Monte Carlo simulations using PELE to identify a protein-protein inhibitor bindi
 |
 
 
-(9)-Tetrahydrocannabinolic acid alleviates collagen-induced arthritis: Role of PPARγ and CB(1) receptors.
+Δ(9)-Tetrahydrocannabinolic acid alleviates collagen-induced arthritis: Role of PPARγ and CB(1) receptors.
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
