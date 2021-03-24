@@ -20,8 +20,8 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'papers'
-copyright = '2020, Daniel Soler Viladrich'
-author = 'Daniel Soler Viladrich'
+copyright = '2021, Nostrum Biodiscovery'
+author = 'Nostrum Biodiscovery'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
@@ -34,6 +34,8 @@ release = '1.0.0'
 # ones.
 extensions = [
 ]
+
+master_doc = 'index'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']

@@ -3,19 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to NostrumBioDiscover's article documentation!
+Welcome to Nostrum Biodiscovery's article documentation!
 ==========================================================
 
 
 .. figure:: nbd.png
-    :scale: 100%
+    :scale: 20%
     :align: center
 
 
-NostrumBioDiscovery has been running up to three years. Along the journey
-we have been working with all size pharmas and developing our own projects.
+Nostrum Biodiscovery has been running up to three years. Along the journey
+we have been working with all size pharmaceutical companies and developing our own projects.
 
-Here it comes a recollection of all our papers. We separate them in the next categories:
+Here comes a recollection of all our papers. We separated them in the following categories:
 
 
 
@@ -27,8 +27,3 @@ Here it comes a recollection of all our papers. We separate them in the next cat
 
 .. toctree::
    Software/index.rst
-
-
-
-
-

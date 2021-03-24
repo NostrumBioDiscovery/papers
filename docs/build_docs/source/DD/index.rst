@@ -1,8 +1,8 @@
-Drug Discovery papers
-========================
+Drug discovery
+================
 
 
-Atomistic simulations shed new light on the activation mechanisms of RORγ and classify it as Type III nuclear hormone receptor regarding ligand-binding paths.
+Atomistic Simulations Shed New Light On The Activation Mechanisms Of RORγ And Classify It As Type III Nuclear Hormone Receptor Regarding Ligand-Binding Paths
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. figure:: images/rorgamma.png
@@ -12,11 +12,8 @@ Atomistic simulations shed new light on the activation mechanisms of RORγ and c
 - Paper: https://www.ncbi.nlm.nih.gov/pubmed/31754232
 
 |
-|
-|
 
-
-Pushing the Limits of Computational Structure-Based Drug Design with a Cryo-EM Structure: The Ca2+ Channel α2δ-1 Subunit as a Test Case
+Pushing The Limits Of Computational Structure-Based Drug Design With A Cryo-EM Structure: The Ca2+ Channel α2δ-1 Subunit As A Test Case
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. figure:: images/cryoem.gif
@@ -26,11 +23,8 @@ Pushing the Limits of Computational Structure-Based Drug Design with a Cryo-EM S
 - Paper: https://www.ncbi.nlm.nih.gov/pubmed/30053380
 
 |
-|
-|
 
-
-Extensive benchmark of rDock as a peptide-protein docking tool
+Extensive Benchmark Of rDock As A Peptide-Protein Docking Tool
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. figure:: images/rdock.png
@@ -40,11 +34,8 @@ Extensive benchmark of rDock as a peptide-protein docking tool
 - Paper: https://www.ncbi.nlm.nih.gov/pubmed/31270654
 
 |
-|
-|
 
-
-Challenges of docking in large, flexible and promiscuous binding sites
+Challenges Of Docking In Large, Flexible And Promiscuous Binding Sites
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. figure:: images/docking.jpg
@@ -54,11 +45,8 @@ Challenges of docking in large, flexible and promiscuous binding sites
 - Paper: https://www.ncbi.nlm.nih.gov/pubmed/27545443
 
 |
-|
-|
 
-
-Monte Carlo simulations using PELE to identify a protein-protein inhibitor binding site and pose
+Monte Carlo Simulations Using Pele To Identify A Protein-Protein Inhibitor Binding Site And Pose
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
@@ -67,12 +55,10 @@ Monte Carlo simulations using PELE to identify a protein-protein inhibitor bindi
     :align: center
 
 - Paper: http://dx.doi.org/10.1039/D0RA01127D
-|
-|
+
 |
 
-
-Δ(9)-Tetrahydrocannabinolic acid alleviates collagen-induced arthritis: Role of PPARγ and CB(1) receptors.
+Δ(9)-Tetrahydrocannabinolic Acid Alleviates Collagen-Induced Arthritis: Role Of PPARγ And CB(1) Receptors
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
@@ -81,4 +67,3 @@ Monte Carlo simulations using PELE to identify a protein-protein inhibitor bindi
     :align: center
 
 - Paper: https://doi.org/10.1111/bph.15155
-
