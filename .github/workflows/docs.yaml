@@ -19,7 +19,7 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.7
-
+  
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
@@ -30,12 +30,13 @@ jobs:
         rm -r -f _build/html/*
         make html
         cp -r build/html/* ../
+    # https://github.com/peaceiris/actions-gh-pages
     - name: Deploy documentation
       if: success()
       uses: peaceiris/actions-gh-pages@v3
       with:
           publish_branch: gh-pages
-          github_token: ${{ secrets.PUSH_PASS }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: docs/
-          user_name: 'nostrumbiodiscovery'
-          user_email: 'it@nostrumbiodiscovery.com'
+          user_name: 'Daniel Soler'
+          user_email: 'daniel.soler@nostrumbiodiscovery.com'
